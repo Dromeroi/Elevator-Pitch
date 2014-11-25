@@ -24,8 +24,8 @@ Nowadays most parents are worried about their child safety. Therefor we've decid
 
 3-Conclusion (With resume of key aspects)
 
-  Quick overview and thoughts about how our project will evolve and why is it a great project
+  --------Quick overview and thoughts about how our project will evolve and why is it a great project
   
 4-Time for questions
 
-  We will try to ask every question, anticipating to the obvius ones.
+  --------We will try to ask every question, anticipating to the obvius ones.
