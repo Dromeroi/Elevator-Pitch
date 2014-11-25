@@ -28,4 +28,4 @@ Nowadays most parents are worried about their child safety. Therefor we've decid
   
 4-Time for questions
 
-  --------We will try to ask every question, anticipating to the obvius ones.
+  --------We will try to ask every question, anticipating to the obvious ones.
