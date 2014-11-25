@@ -8,17 +8,17 @@ Nowadays most parents are worried about their child safety. Therefor we've decid
 
 ======================================================================================================================
 
-1-Introduction (Attention grabber)
+1-Introduction (Attention grabber)=
   1.1- Explain the potential problem without specifiying the product itself.
   1.2- Telling how we will solve the problem through our product.
   
-2-Body (Explaining main points)
+2-Body (Explaining main points)=
   2.1- Value propoitions
   2.2- Key partners and channels
   2.3- Revenue streams
 
-3-Conclusion (With resume of key aspects)
+3-Conclusion (With resume of key aspects)=
   Quick overview and thoughts about how our project will evolve and why is it a great project
   
-4-Time for questions
+4-Time for questions=
   We will try to ask every question, anticipating to the obvius ones.
